@@ -5,12 +5,10 @@ I’m a computer systems engineer student at [UPN](https://www.upn.edu.pe/).
 <img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
 Lover of new technologies and self-taught learning.
 
-<a href="https://www.linkedin.com/in/marcoatencio/">
+<a href="https://www.linkedin.com/in/marcoatencio/" target=”_blank”>
   <img align="left" alt="MarcoAtencio | Linkedin" width="18px" src="https://www.estudiorodrigo.com/wp-content/uploads/2019/08/Logo-Linkedin.png" />
 </a>
-<a href="https://twitter.com/_MarcoAtencio" target="_blank">
-  <img align="left" alt="MarcoAtencio | Twitter" width="22px" src="https://help.twitter.com/content/dam/help-twitter/brand/logo.png" />
-</a>
+
 <br />
 <br />
 
