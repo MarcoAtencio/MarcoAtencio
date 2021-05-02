@@ -86,4 +86,3 @@ Lover of new technologies and self-taught learning.
   </a>
 </p>
 
-<hr>
