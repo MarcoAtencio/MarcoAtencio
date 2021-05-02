@@ -23,6 +23,8 @@ Lover of new technologies and self-taught learning.
 - 🎯 Life Hack: "Explore 🔥 and Explode 💣 with knowledge"
 - 💬 Ask me about anything [here](https://github.com/MarcoAtencio/MarcoAtencio/issues)
 
+<hr>
+
 **Languages and Tools:**  
 <p align="center">
   <code><img title="Javascript" height="25" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/javascript.svg"></code>
@@ -54,7 +56,7 @@ Lover of new technologies and self-taught learning.
   if you have forked this to use on your profile, 
   Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app` 
 --->
-<hr>
+
 **Most used Distributions:**
 <p align="center">
 
