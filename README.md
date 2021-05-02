@@ -10,7 +10,7 @@ Lover of new technologies and self-taught learning.
 </a>
 
 <a href="https://www.instagram.com/marcoatencio_" target='_blank'>
-  <img align="left" alt="MarcoAtencio | Instagram" width="18px" src="https://i.pinimg.com/originals/3b/21/c7/3b21c7efd2ba9c119fb8d361acacc31d.png" />
+  <img align="left" alt="MarcoAtencio | Instagram" width="23px" src="https://i.pinimg.com/originals/3b/21/c7/3b21c7efd2ba9c119fb8d361acacc31d.png" />
 </a>
 
 <a href="https://www.linkedin.com/in/marcoatencio/" target='_blank'>
