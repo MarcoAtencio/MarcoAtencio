@@ -9,6 +9,10 @@ Lover of new technologies and self-taught learning.
   <img align="left" alt="MarcoAtencio | WebSite(2019)" width="18px" src="https://cdn3.iconfinder.com/data/icons/faticons/32/globe-01-512.png" />
 </a>
 
+<a href="https://www.instagram.com/marcoatencio_" target='_blank'>
+  <img align="left" alt="MarcoAtencio | Instagram" width="18px" src="https://i.pinimg.com/originals/3b/21/c7/3b21c7efd2ba9c119fb8d361acacc31d.png" />
+</a>
+
 <a href="https://www.linkedin.com/in/marcoatencio/" target=”_blank”>
   <img align="left" alt="MarcoAtencio | Linkedin" width="18px" src="https://www.estudiorodrigo.com/wp-content/uploads/2019/08/Logo-Linkedin.png" />
 </a>
